@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caliphe @xuover
-- 👀 I’m interested in trading, investing, eCommerce, fantasy sports, gaming, user experience
-- 🌱 I’m currently learning algorithmic trading, web development, machine learning techiques
-- 💞️ I’m looking to collaborate on digital transformation, trading and investing software, and web based projects that help humanity!
+- 👀 I’m interested in solutions to problems in risk management, finance, and overall user experience with the product or service.
+- 🌱 I’m currently learning algorithmic trading, web development, machine learning 
+- 💞️ I’m looking to collaborate on projects that help humanity prosper
 - 📫 How to reach me caliphe@xuover.com
 
 <!---
