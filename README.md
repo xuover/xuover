@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Caliphe @xuover
 - 👀 I’m interested in technical solutions to problems in risk management, finance, and user experience
-- 🌱 I’m always learning about risk management, web development, artificial intelligence
+- 🌱 I’m always learning about risk management, software engineering, artificial intelligence
 - 💞️ I’m looking to collaborate on projects that help humanity prosper
 - 📫 How to reach me caliphe@xuover.com
 
